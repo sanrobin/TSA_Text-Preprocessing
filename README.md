@@ -1,6 +1,6 @@
-## TSA_Text-Preprocessing
+# TSA_Text-Preprocessing
 A project on "Text Cleaning and Pre-Processing Tool using NLTK" which is done on my third year in college.
-# Document Text Cleaner
+## Document Text Cleaner
 A Python tool that extracts and cleans text from Word documents (.docx) and PDF files using natural language processing techniques.
 ## Features
 
